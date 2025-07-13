@@ -1,4 +1,4 @@
-Api_key="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"
+Api_key="your api key"
 from openai import OpenAI
 
 client = OpenAI(
